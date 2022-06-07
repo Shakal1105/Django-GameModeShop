@@ -26,6 +26,7 @@ Now write next commands in **directory ~../my_app копия>
 
 **Now we need to replace the db.sqlite3 with the one we cut earlier**
 ~~_______________________________________________________________________________________________________~~
+
 **Now we can start our site:
 
 ```python manage.py runserver```
