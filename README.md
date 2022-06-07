@@ -2,13 +2,13 @@
 Online Shop, create on django. PyCharm. 
 If you want start project you need do next steps:
 
-Download file ***Sequrity__.rar
+*Download file ***Sequrity__.rar*** *
 
-depacking ***my_app копия
+depacking ***my_app копия***
 
-run ***PyCharm
+run ***PyCharm***
 
-open Project ***my_app копия
+open Project ***my_app копия***
   
 open directory ***my_app копия*** and cut file ***db.sqlite3***
 
