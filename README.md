@@ -2,7 +2,7 @@
 Online Shop, create on django. PyCharm. 
 If you want start project you need do next steps:
 
-*Download file ***Sequrity__.rar*** *
+Download file ***Sequrity__.rar*** 
 
 depacking ***my_app копия***
 
@@ -32,4 +32,5 @@ Now write next commands in **directory ~../my_app копия>
 
 *open link and our site working*
 
-`#TELEGRAMM @Shakal11052002
+```
+#TELEGRAMM @Shakal11052002
